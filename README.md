@@ -1,10 +1,17 @@
 # Forecasting covid cases in Chile with Arima model
 
-Here you have a simple Arima model for forecasting Covid cases in Chile. 
-I got the information from https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto5 (official information)
+Here you have a simple Arima model for forecasting Covid cases for the next 7 days in Chile. 
 
-https://ibb.co/tLPt8jv
+#Data Source
 
-https://ibb.co/xfvb7z0
+The data of COVID 19 in Chile, from 03-03-2020 to 25-04-2020 were collected from the official github of Ministerio de Ciencia de Chile (https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto5).
 
-![Forecast](https://ibb.co/d4wQBvL)
+
+#Results
+
+The fig 1 and fig 2 show the ACF and PACF plots of total cases used for estimating the best parameters (p, q, and d)
+![fig 1](https://github.com/gerson93/CovidChileArimaModel/blob/master/imagenes/Graf%202.png)
+![fig 2](https://github.com/gerson93/CovidChileArimaModel/blob/master/imagenes/Graf%203.png)
+
+The chosen parameters was p = 1, q = 1 and d = 2. With this values, the forescasfting for the next 7 days is show in the fig 3
+![fig 3](https://github.com/gerson93/CovidChileArimaModel/blob/master/imagenes/Graf%201.png)
