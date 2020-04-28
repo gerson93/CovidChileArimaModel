@@ -9,7 +9,7 @@ The data of COVID 19 in Chile, from 03-03-2020 to 25-04-2020 were collected from
 
 #Results
 
-The fig 1 and fig 2 show the ACF and PACF plots of total cases used for estimating the best parameters (p, q, and d)
+The fig 1 and fig 2 show the ACF and PACF plots of total cases used for estimating the best parameters (p, q, and d). The second differentiation was used.
 ![fig 1](https://github.com/gerson93/CovidChileArimaModel/blob/master/imagenes/Graf%202.png)
 ![fig 2](https://github.com/gerson93/CovidChileArimaModel/blob/master/imagenes/Graf%203.png)
 
