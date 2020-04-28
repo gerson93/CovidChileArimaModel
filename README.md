@@ -13,5 +13,5 @@ The fig 1 and fig 2 show the ACF and PACF plots of total cases used for estimati
 ![fig 1](https://github.com/gerson93/CovidChileArimaModel/blob/master/imagenes/Graf%202.png)
 ![fig 2](https://github.com/gerson93/CovidChileArimaModel/blob/master/imagenes/Graf%203.png)
 
-The chosen parameters was p = 1, q = 1 and d = 2. With this values, the forescasfting for the next 7 days is show in the fig 3
+The chosen parameters was p = 1, q = 1 and d = 2. With this values, the forescast for the next 7 days is show in the fig 3
 ![fig 3](https://github.com/gerson93/CovidChileArimaModel/blob/master/imagenes/Graf%201.png)
