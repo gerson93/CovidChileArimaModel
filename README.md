@@ -1,6 +1,6 @@
-# Forecasting covid cases in Chile with Arima model
+# Forecasting Covid Cases in Chile with Arima Model
 
-Here you have a simple Arima model for forecasting Covid cases for the next 7 days in Chile. 
+Here you have a simple Arima model for forecasting Covid cases for the next seven days in Chile. 
 
 ## Data Source
 
